@@ -1,6 +1,6 @@
 # Evaluación del Riesgo Crediticio - Código de la Tesis
 
-Este repositorio contiene el código y scripts desarrollados para la tesis de maestría sobre la **evaluación del riesgo crediticio en México**. Aquí se encuentran los modelos y algoritmos empleados, que incluyen tanto **regresión logística** como **bosques aleatorios** para clasificar solicitudes de crédito.
+Este repositorio contiene el código y scripts desarrollados para la tesis de licenciatura sobre **evaluación de riesgo crediticio**. Aquí se encuentran los modelos y algoritmos empleados, que incluyen tanto **regresión logística** como **bosques aleatorios** para clasificar solicitudes de crédito.
 
 ## Contenido del Repositorio
 - **Modelos de Clasificación**: Implementaciones de los modelos de regresión logística y bosques aleatorios.
